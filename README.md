@@ -9,3 +9,6 @@ this is code
 **bold**
 
 *italic*
+
+NAME: Muaz Hazali
+DEGREE: IT
